@@ -22,14 +22,14 @@
 		5B2B3DCF1588DFC30079B846 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5B2B3DD11588DFC30079B846 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5B2B3DD31588DFC30079B846 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5B2B3DD71588DFC30079B846 /* GitAndStoryboardsTest-Info.plist */ = {isa = PBXFileReference; path = "GitAndStoryboardsTest-Info.plist"; sourceTree = "<group>"; };
+		5B2B3DD71588DFC30079B846 /* GitAndStoryboardsTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitAndStoryboardsTest-Info.plist"; sourceTree = "<group>"; };
 		5B2B3DD91588DFC30079B846 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5B2B3DDB1588DFC30079B846 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5B2B3DDD1588DFC30079B846 /* GitAndStoryboardsTest-Prefix.pch */ = {isa = PBXFileReference; path = "GitAndStoryboardsTest-Prefix.pch"; sourceTree = "<group>"; };
-		5B2B3DDE1588DFC30079B846 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		5B2B3DDD1588DFC30079B846 /* GitAndStoryboardsTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GitAndStoryboardsTest-Prefix.pch"; sourceTree = "<group>"; };
+		5B2B3DDE1588DFC30079B846 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		5B2B3DDF1588DFC30079B846 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		5B2B3DE21588DFC30079B846 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		5B2B3DE41588DFC30079B846 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		5B2B3DE41588DFC30079B846 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		5B2B3DE51588DFC30079B846 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
